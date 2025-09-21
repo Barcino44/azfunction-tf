@@ -30,9 +30,9 @@ In this case, we discover it was neccesary to add the subscriptionId in the defi
 
 After reviewing that all the code is clean, we execute the command.
 
-``
+````
 terraform apply
-``
+````
 
 And we add a name to the function which is going to be created.
 
