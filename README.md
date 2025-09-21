@@ -1,4 +1,4 @@
-### Documentation
+## Documentation
 
 First, it was neccesary to log in to the azure CLI using thw student account.
 
