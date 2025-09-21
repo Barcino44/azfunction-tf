@@ -1,6 +1,6 @@
-**Documentation:**
+### Documentation
 
-First,it was neccesary to log in to the azure CLI using thw student account.
+First, it was neccesary to log in to the azure CLI using thw student account.
 
 <p align="center">
   <img width="1089" height="421" alt="image" src="https://github.com/user-attachments/assets/82a5564a-e20e-4742-a788-9d2ed454492a" />
